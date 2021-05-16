@@ -10,4 +10,4 @@ Working:
 In user login user can see the payment details ,bus details, bus number and also they can make payment using paytm. User can also download the receipt after the payment.
 In admin login admin can check user information, admin can delete and update the details and can check the payment details. Regarding payment verification mail will be sent to the user saying payment is success or unsuccess.
 
-To run the code type this link in browser: http://localhost:8080/College bus management system/firstpage.html
+To run the code type this link in browser: http://localhost:8080/g/firstpage.html
